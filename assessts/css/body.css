@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inconsolata:wght@300;400&family=Montserrat&family=Phudu&family=Roboto+Mono&family=Roboto:wght@300&family=Rubik:wght@300&family=Tajawal:wght@300&family=Titillium+Web:ital,wght@0,400;1,300&family=Ubuntu:ital,wght@0,300;0,700;1,400&display=swap');
+
+:root{
+    --green:#16a885;
+    --black:#444;
+    --gray:#777;
+    --box-shadow:.5rem .5rem 0 rgba(22,160,133,.2);
+    --text-shadow:.4rem .4rem 0 rgba(0,0,0,.2);
+    --border:.2rem solid var(--green);
+}
+*{
+    padding:0;
+    margin:0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: capitalize;
+    transition: all .2s ease-out;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
